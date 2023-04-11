@@ -1,2 +1,0 @@
-# ProjectSynergy
-Pulling Rabbits
